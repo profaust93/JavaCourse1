@@ -1,4 +1,4 @@
-package lv.javaguru.lessons.theme1.task0;
+package lv.javaguru.lessons.lesson1.task0;
 
 import java.util.Scanner;
 
